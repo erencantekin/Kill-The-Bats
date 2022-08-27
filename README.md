@@ -13,4 +13,5 @@ https://user-images.githubusercontent.com/88515143/187048759-d8572570-cc58-48d1-
 ![capture2](https://user-images.githubusercontent.com/88515143/187048997-571a6e38-d636-4a56-9903-da51bfac40e5.PNG)
 
 #    If the player reaches 3th level speed, that button will not be interactable anymore, because it is max level. It is same for the "double health" button.
-![capture3](https://user-images.githubusercontent.com/88515143/187049189-0e890eaf-a2e3-49ae-83fe-8f74de821135.PNG)
+![capture3](https://user-images.githubusercontent.com/88515143/187049323-ef6c3d00-7ea3-494a-8461-cee59fdec924.PNG)
+
