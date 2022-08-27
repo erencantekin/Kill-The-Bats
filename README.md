@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/88515143/187048759-d8572570-cc58-48d1-
 #    The area where the player kills bats
 ![capture1](https://user-images.githubusercontent.com/88515143/187048913-59f4d68c-2d65-4c6f-b73d-1fc322e4bb44.PNG)
 
-#    The town where the player can increments his speed, double his health and restore his health
+#    The town where the player can increments his speed, double his health and restore his health.
 ![capture2](https://user-images.githubusercontent.com/88515143/187048997-571a6e38-d636-4a56-9903-da51bfac40e5.PNG)
 
 #    If the player reaches 3th level speed, that button will not be interactable anymore, because it is max level. It is same for the "double health" button.
